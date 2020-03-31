@@ -1,0 +1,12 @@
+.tabbed-pane-main-col.mod-wider .tabbed-pane-main-col-wrapper{max-width:100%;padding:0;}
+.tabbed-pane-header-wrapper{max-width:100%;padding:0;}
+.window-module{margin-bottom:0;}
+.js-react-root > div{padding:0;}
+.tabbed-pane-header{width:50%;    /* float: left; */display:inline-block;}
+.tabbed-pane-nav.u-clearfix.js-nav{    /* float: right; */
+width:50%;display:inline-block;align-self:flex-end;line-height:28px;}
+.tabbed-pane-main-col.u-clearfix.mod-wider{width:100%;}
+#surface #content > div{display:flex;flex-wrap:wrap;}
+.window-module.u-gutter.member-cards-options{}
+a.tabbed-pane-nav-item-button.js-member-profile{}
+a.tabbed-pane-nav-item-button.js-billing{    /* display: none; */}
